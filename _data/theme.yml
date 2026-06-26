@@ -23,7 +23,7 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: subject # set the field to be featured in the cloud (if left blank, none will be generated)
+subjects-fields: subject,binding_features,physical_format # set the field to be featured in the cloud (if left blank, none will be generated)
 subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
@@ -61,7 +61,7 @@ year-nav-increment: 5 # set increments when auto gen nav years
 # comma delimited list, reference url is automatic
 metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,creator,format"
+metadata-facets-fields: "subject,binding_features,physical_format"
 
 ##########
 # COMPOUND OBJECTS
