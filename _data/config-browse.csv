@@ -1,5 +1,9 @@
 field,display_name,btn,hidden,sort_name
+title,Title,,,
 date,Date,,,Date
 creator,Creator,,,
-subject,,true
-location,,true
+subject,,TRUE,,
+location,,TRUE,,
+physical_description,Description,,,
+binding_features,Binding features,,,
+rights_cc,Rights,,,
