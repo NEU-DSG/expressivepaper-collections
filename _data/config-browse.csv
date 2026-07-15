@@ -2,7 +2,7 @@ field,display_name,btn,hidden,sort_name
 title,Title,,,
 date,Date,,,Date
 creator,Creator,,,
-subject,,TRUE,,
+subject,Subject,TRUE,,
 location,,TRUE,,
 physical_description,Description,,,
 binding_features,Binding features,,,
