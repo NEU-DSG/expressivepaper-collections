@@ -14,4 +14,4 @@ credits: true
 
 ## Workshops
 
-This page will describe the workshop series as a whole.
+This page will describe the workshop series as a whole, and also the individual workshops.
