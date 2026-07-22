@@ -14,7 +14,7 @@ Throughout our series of pilot workshops, our team developed a many handouts, in
 
 Copyable materials can also be found in our public facing [Zines and Expressive Forms Samples and Instructions Google Drive Folder](https://drive.google.com/drive/folders/1d2W3oGushvGGwpzag3nyyJLobiRlivfs?usp=sharing). We welcome your use — and obviously, remix of these materials — in your own endeavors! 
 
-## Zines and Booklets '
+## Zines and Booklets
 
 **One-page Zines**
 
@@ -46,12 +46,13 @@ What we find interesting about the accordion zine:
 
 **Lotus Book**
 
-Lotus books (or star books, depending on how you fold them) are 
+Lotus books (or star books, depending on how you fold them) are made with a bookbinding technique where folded squares of paper that are glued together creating three-dimensional, flower-like structures. David Mitchell traces [one origin of the lotus book fold] (https://origamiheaven.com/historyofthelotus.htm) to 'Zhe zhi tu shuo' (Illustrated Paperfolding), Volume 1, compiled by Gui Shaolie and published in 1914.
 
 
+What we find interesting about the accordion zine:
 
 [Download Lotus Book Instructions] (https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_accordion.pdf)
 
 ## Flexagons
 
-**6-Square Tetraflexagon
+**6-Square Tetraflexagon**
