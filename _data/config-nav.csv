@@ -2,11 +2,10 @@ display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
 Subjects,/subjects.html,
-Timeline,/timeline.html,
 Data,/data.html,
 About,/about.html,
-Teaching Resources,/resources.html,
+Teaching Resources,,
 Workshops,/workshops.html,Teaching Resources
-Handouts,/materials.html,Teaching Resources
+Handouts,/handouts.html,Teaching Resources
 Artifacts,/artifacts.html,Teaching Resources
 Exhibits,/exhibits.html,
