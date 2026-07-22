@@ -20,20 +20,20 @@ Copyable materials can also be found in our public facing [Zines and Expressive 
 
 The one-page zine is probably the most familiar and accessible paper form we experimented with in our workshop. They are easily folded from one sheet of paper, can be easily scanned and reproduced, and make for a great building block in conversations about aggregation. 
 
-![a half finished accordion book about Hamm radio](Image_URL_or_Path)
+![full sheet of a zine titled "Millet Miracles"](https://neu-dsg.github.io/expressivepaper-collections/objects/zine-millet-print.pdf)
 
-What we find interersting about the one-page zine: 
+What we find interesting about the one-page zine: 
 * they lend themselves well to linear narrative 
 * but they are also double sided; what might be concealed or revealed on the back side of the page?
 * their accessibility: easy to print, easy to mail, easy to carry
 
-[Download One-page Zine Instructions] (assets/img/instructions_onepagezine.pdf)
+[Download One-page Zine Instructions] (https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_onepagezine.pdf)
 
 **Accordion Zine**
 
 Accordion fold zines are a common expressive paper form, often used in both zine and artists' book communities. They can be made with just one piece of paper or by joining joined multiple sheets of paper that are made with a series of peak and valley folds.
 
-![a half finished accordion book about Hamm radio](Image_URL_or_Path)
+![a half finished accordion book about Hamm radio](https://neu-dsg.github.io/expressivepaper-collections/objects/zine-radio-chronological.jpg)
 
 What we find interesting about the accordion zine:
 * they can be easily adapted for linear narratives
@@ -42,7 +42,7 @@ What we find interesting about the accordion zine:
 * it has multiple, different states of stasis (it can be folded up like a book or standing up)
 * it conveys movement, opening, elasticity
 
-[Download Accordion Zine Instructions] (assets/img/instructions_accordion.pdf)
+[Download Accordion Zine Instructions] (https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_accordion.pdf)
 
 **Lotus Book**
 
@@ -50,7 +50,7 @@ Lotus books (or star books, depending on how you fold them) are
 
 
 
-[Download Lotus Book Instructions] (assets/img/instructions_accordion.pdf)
+[Download Lotus Book Instructions] (https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_accordion.pdf)
 
 ## Flexagons
 
