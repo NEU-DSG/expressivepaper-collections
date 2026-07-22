@@ -27,7 +27,7 @@ What we find interesting about the one-page zine:
 * but they are also double sided; what might be concealed or revealed on the back side of the page?
 * their accessibility: easy to print, easy to mail, easy to carry
 
-[Download One-page Zine Instructions] (https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_onepagezine.pdf)
+[Download One-page Zine Instructions](https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_onepagezine.pdf)
 
 **Accordion Zine**
 
@@ -42,11 +42,11 @@ What we find interesting about the accordion zine:
 * it has multiple, different states of stasis (it can be folded up like a book or standing up)
 * it conveys movement, opening, elasticity
 
-[Download Accordion Zine Instructions] (expressivepaper-collections/assets/img/instructions_accordion.pdf)
+[Download Accordion Zine Instructions](expressivepaper-collections/assets/img/instructions_accordion.pdf)
 
 **Lotus Book**
 
-Lotus books (or star books, depending on how you fold them) are made with a bookbinding technique where folded squares of paper that are glued together creating three-dimensional, flower-like structures. David Mitchell traces [one origin of the lotus book fold] (https://origamiheaven.com/historyofthelotus.htm) to 'Zhe zhi tu shuo' (Illustrated Paperfolding), Volume 1, compiled by Gui Shaolie and published in 1914.
+Lotus books (or star books, depending on how you fold them) are made with a bookbinding technique where folded squares of paper that are glued together creating three-dimensional, flower-like structures. David Mitchell traces [one origin of the lotus book fold](https://origamiheaven.com/historyofthelotus.htm) to 'Zhe zhi tu shuo' (Illustrated Paperfolding), Volume 1, compiled by Gui Shaolie and published in 1914.
 
 IMAGE PLACEHOLDER
 
@@ -55,7 +55,7 @@ What we find interesting about the accordion zine:
 * 
 *
 
-[Download Lotus Book Instructions] (https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_accordion.pdf)
+[Download Lotus Book Instructions](https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_accordion.pdf)
 
 ## Flexagons
 
