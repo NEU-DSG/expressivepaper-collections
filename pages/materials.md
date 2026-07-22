@@ -1,7 +1,7 @@
 ---
-title: Materials
+title: Artifacts
 layout: about
-permalink: /resources.html
+permalink: /artifacts.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
@@ -12,6 +12,6 @@ credits: false
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## Materials
+## Artifacts
 
-This page will talk in more detail about the materials created as part of this project, including the printable materials and the instructions, with examples and links to more.
+This page will talk in more detail about the artifacts created as part of this project, including the printable materials and the physical examples, with examples and links to more.
