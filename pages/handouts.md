@@ -33,7 +33,7 @@ What we find interesting about the one-page zine:
 
 Accordion fold zines are a common expressive paper form, often used in both zine and artists' book communities. They can be made with just one piece of paper or by joining joined multiple sheets of paper that are made with a series of peak and valley folds.
 
-![a half finished accordion book about Hamm radio](https://neu-dsg.github.io/expressivepaper-collections/objects/zine-radio-chronological.jpg)
+<img src="objects/zine-radio-chronological.jpg" width="300" alt="a half finished accordion book about Hamm radio">
 
 What we find interesting about the accordion zine:
 * they can be easily adapted for linear narratives
@@ -42,7 +42,7 @@ What we find interesting about the accordion zine:
 * it has multiple, different states of stasis (it can be folded up like a book or standing up)
 * it conveys movement, opening, elasticity
 
-[Download Accordion Zine Instructions] (https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_accordion.pdf)
+[Download Accordion Zine Instructions] (expressivepaper-collections/assets/img/instructions_accordion.pdf)
 
 **Lotus Book**
 
@@ -50,6 +50,9 @@ Lotus books (or star books, depending on how you fold them) are made with a book
 
 
 What we find interesting about the accordion zine:
+* 
+* 
+*
 
 [Download Lotus Book Instructions] (https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_accordion.pdf)
 
