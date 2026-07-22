@@ -14,13 +14,43 @@ Throughout our series of pilot workshops, our team developed a many handouts, in
 
 Copyable materials can also be found in our public facing [Zines and Expressive Forms Samples and Instructions Google Drive Folder](https://drive.google.com/drive/folders/1d2W3oGushvGGwpzag3nyyJLobiRlivfs?usp=sharing). We welcome your use — and obviously, remix of these materials — in your own endeavors! 
 
-## Zines and Booklets 
+## Zines and Booklets '
+
+**One-page Zines**
+
+The one-page zine is probably the most familiar and accessible paper form we experimented with in our workshop. They are easily folded from one sheet of paper, can be easily scanned and reproduced, and make for a great building block in conversations about aggregation. 
+
+![a half finished accordion book about Hamm radio](Image_URL_or_Path)
+
+What we find interersting about the one-page zine: 
+* they lend themselves well to linear narrative 
+* but they are also double sided; what might be concealed or revealed on the back side of the page?
+* their accessibility: easy to print, easy to mail, easy to carry
+
+[Download One-page Zine Instructions] (assets/img/instructions_onepagezine.pdf)
 
 **Accordion Zine**
 
-Download instructions
+Accordion fold zines are a common expressive paper form, often used in both zine and artists' book communities. They can be made with just one piece of paper or by joining joined multiple sheets of paper that are made with a series of peak and valley folds.
+
+![a half finished accordion book about Hamm radio](Image_URL_or_Path)
+
+What we find interesting about the accordion zine:
+* they can be easily adapted for linear narratives
+* there are multiple options for reading an accordion zine (is it composed of individual panels or one big panel?)
+* the peak and  valley folds can conceal and reveal information 
+* it has multiple, different states of stasis (it can be folded up like a book or standing up)
+* it conveys movement, opening, elasticity
+
+[Download Accordion Zine Instructions] (assets/img/instructions_accordion.pdf)
 
 **Lotus Book**
+
+Lotus books (or star books, depending on how you fold them) are 
+
+
+
+[Download Lotus Book Instructions] (assets/img/instructions_accordion.pdf)
 
 ## Flexagons
 
