@@ -20,7 +20,7 @@ Copyable materials can also be found in our public facing [Zines and Expressive 
 
 The one-page zine is probably the most familiar and accessible paper form we experimented with in our workshop. They are easily folded from one sheet of paper, can be easily scanned and reproduced, and make for a great building block in conversations about aggregation. 
 
-![full sheet of a zine titled "Millet Miracles"](https://neu-dsg.github.io/expressivepaper-collections/objects/zine-millet-print.pdf)
+IMAGE PLACEHOLDER
 
 What we find interesting about the one-page zine: 
 * they lend themselves well to linear narrative 
@@ -33,7 +33,7 @@ What we find interesting about the one-page zine:
 
 Accordion fold zines are a common expressive paper form, often used in both zine and artists' book communities. They can be made with just one piece of paper or by joining joined multiple sheets of paper that are made with a series of peak and valley folds.
 
-<img src="objects/zine-radio-chronological.jpg" width="300" alt="a half finished accordion book about Hamm radio">
+<img src="objects/zine-radio-chronological.jpg" width="600" alt="a half finished accordion book about Hamm radio">
 
 What we find interesting about the accordion zine:
 * they can be easily adapted for linear narratives
@@ -48,6 +48,7 @@ What we find interesting about the accordion zine:
 
 Lotus books (or star books, depending on how you fold them) are made with a bookbinding technique where folded squares of paper that are glued together creating three-dimensional, flower-like structures. David Mitchell traces [one origin of the lotus book fold] (https://origamiheaven.com/historyofthelotus.htm) to 'Zhe zhi tu shuo' (Illustrated Paperfolding), Volume 1, compiled by Gui Shaolie and published in 1914.
 
+IMAGE PLACEHOLDER
 
 What we find interesting about the accordion zine:
 * 
