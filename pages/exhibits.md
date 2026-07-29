@@ -10,6 +10,6 @@ credits: false
 
 # Exhibits 
 
-
+A placeholder for future exhibits with our collection.
 
 
