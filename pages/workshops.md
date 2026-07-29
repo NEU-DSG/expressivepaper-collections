@@ -45,7 +45,7 @@ Location: Critical Making Lab, Northeastern University
 All items in this collection came from the third zine-making workshop in the series. Participants were encouraged to continue working on previously made zines and paper forms for the purpose of aggregation, remixability, and digital archiving. Driven by questions of how the zine form can be picked apart, put back together, and preserved for archival purposes, "Remixable Paper" sought to critically engage with questions of linearity and preservation.
 
 
-### Celebrating Paper: reflecting and sharing
+## Celebrating Paper: reflecting and sharing
 
 Date: 06/24/2026
 
