@@ -12,11 +12,9 @@ credits: false
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## Workshops
+## Workshops 
 
-# Exhibits 
-
-These exhibits compile zines and other paper forms from four zine-making workshops held at Northeastern University's
+We developed and hosted a series of four zine-making workshops held at Northeastern University's
 Critical Making Lab housed in the Centers for Digital Scholarship (CDS). This workshop series considered the scholarly implications of zine-making as a community-based critical making practice. With the help of our participants, we explored the capabilities of zines and other paper forms to encourage collaborative engagement with physical and digital modes of expression, narrative, knowledge, and information.
 
 
