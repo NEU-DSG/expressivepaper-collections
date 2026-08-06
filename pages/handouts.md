@@ -14,9 +14,9 @@ Throughout our series of pilot workshops, our team developed a many handouts, in
 
 Copyable materials can also be found in our public facing [Zines and Expressive Forms Samples and Instructions Google Drive Folder](https://drive.google.com/drive/folders/1d2W3oGushvGGwpzag3nyyJLobiRlivfs?usp=sharing). We welcome your use — and obviously, remix of these materials — in your own endeavors! 
 
-## Zines and Booklets
+### Zines and Booklets
 
-**One-page Zines**
+#### One-page Zines
 
 The one-page zine is probably the most familiar and accessible paper form we experimented with in our workshop. They are easily folded from one sheet of paper, can be easily scanned and reproduced, and make for a great building block in conversations about aggregation. 
 
@@ -29,14 +29,14 @@ What we find interesting about the one-page zine:
 
 [Download One-page Zine Instructions](https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_onepagezine.pdf)
 
-**Accordion Zine**
+#### Accordion Zine
 
 Accordion fold zines are a common expressive paper form, often used in both zine and artists' book communities. They can be made with just one piece of paper or by joining joined multiple sheets of paper that are made with a series of peak and valley folds.
 
 <img src="objects/zine-radio-chronological.jpg" width="600" alt="a half finished accordion book about Hamm radio">
 
 What we find interesting about the accordion zine:
-* they can be easily adapted for linear narratives
+* it can be easily adapted for linear narratives
 * there are multiple options for reading an accordion zine (is it composed of individual panels or one big panel?)
 * the peak and  valley folds can conceal and reveal information 
 * it has multiple, different states of stasis (it can be folded up like a book or standing up)
@@ -44,7 +44,7 @@ What we find interesting about the accordion zine:
 
 [Download Accordion Zine Instructions](expressivepaper-collections/assets/img/instructions_accordion.pdf)
 
-**Lotus Book**
+#### Lotus Book
 
 Lotus books (or star books, depending on how you fold them) are made with a bookbinding technique where folded squares of paper that are glued together creating three-dimensional, flower-like structures. David Mitchell traces [one origin of the lotus book fold](https://origamiheaven.com/historyofthelotus.htm) to 'Zhe zhi tu shuo' (Illustrated Paperfolding), Volume 1, compiled by Gui Shaolie and published in 1914.
 
@@ -57,6 +57,8 @@ What we find interesting about the accordion zine:
 
 [Download Lotus Book Instructions](https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_accordion.pdf)
 
-## Flexagons
+### Flexagons
 
-**6-Square Tetraflexagon**
+#### Hexaflexagon
+
+#### 6-Square Tetraflexagon
