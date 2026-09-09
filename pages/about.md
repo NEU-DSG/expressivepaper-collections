@@ -8,10 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 This collection includes images of zines and other materials created as part of the "Margins and Methods" workshops in the Critical Making Lab at Northeastern University's Centers for Digital Scholarship. The Margins and Methods workshops were funded through a generous grant from the [NULab for Digital Humanities and Computational Social Science](https://cssh.northeastern.edu/nulab/), which enabled us to develop a pilot workshop curriculum including handouts, instructions, samples, and other supporting materials. This site records and explores those materials and will expand as more workshops in the series take place. 
