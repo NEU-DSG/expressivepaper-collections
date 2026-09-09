@@ -20,7 +20,7 @@ Copyable materials can also be found in our public facing [Zines and Expressive 
 
 The one-page zine is probably the most familiar and accessible paper form we experimented with in our workshop. They are easily folded from one sheet of paper, can be easily scanned and reproduced, and make for a great building block in conversations about aggregation. 
 
-<img src="img/standing-zines.jpg" width="600" alt="a trio of one page zines standing up on a table">
+<img src="assets/img/standing-zines.jpg" width="600" alt="a trio of one page zines standing up on a table">
 
 What we find interesting about the one-page zine: 
 * they lend themselves well to linear narrative 
