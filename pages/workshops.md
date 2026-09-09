@@ -10,8 +10,6 @@ credits: false
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## Workshops 
 
 We developed and hosted a series of four zine-making workshops held at Northeastern University's
