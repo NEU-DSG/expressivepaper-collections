@@ -55,10 +55,16 @@ What we find interesting about the accordion zine:
 * 
 *
 
-[Download Lotus Book Instructions](https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_accordion.pdf)
+[Download Lotus Book Instructions](https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_lotus.pdf)
 
 ### Flexagons
 
+[Download Flexagon Instructions](https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_accordion.pdf)
+
 #### Hexaflexagon
 
+[Download Hexaflexagon Instructions]
+
 #### 6-Square Tetraflexagon
+
+[Download 6-Square Tetraflexagon Instructions](https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_6squaretetraflexagon.pdf)
