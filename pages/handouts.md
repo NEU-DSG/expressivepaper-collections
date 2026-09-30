@@ -50,15 +50,54 @@ Lotus books (or star books, depending on how you fold them) are made with a book
 
 IMAGE PLACEHOLDER
 
-What we find interesting about the accordion zine:
+What we find interesting about the lotus book:
 * 
 * 
-*
+* 
 
-[Download Lotus Book Instructions](https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_accordion.pdf)
+[Download Lotus Book Instructions](https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_lotus.pdf)
 
 ### Flexagons
 
-#### Hexaflexagon
+#### Tetra-tetra-flexagon
+
+You can flex this form by folding the two halves away from you and pulling the central seam gently apart. After several flexes, you’ll come to a dead end and can flex back the way you came. Those dead ends can be places of discovery—for instance, you can embed small pop-up structures or tiny pamphlets inside them. Although the “columns” in this flexagon must be the same width, you can experiment with different heights for the “rows” when you do the initial fold into thirds. 
+
+You could also experiment with more complex versions that have five rows and two flaps (or seven rows and three flaps!)—you might need to use heavier paper for these.
+
+Tetra-tetra-flexagons suggest interesting possibilities:
+* for parallel narratives
+* for journeys out and back
+* for symmetry and mirroring
+
+[Download Tetra-tetra-flexagon Instructions](https://github.com/NEU-DSG/expressivepaper-collections/blob/main/assets/img/Tetra-tetra-flexagon_Instructions.pdf)
 
 #### 6-Square Tetraflexagon
+
+To manipulate this form, fold the two sides away from you and pull the center gently apart. In some configurations, there may be two different ways to open it. In others, there’s just one, and you may need to rotate the form 90 degrees to reveal it. 
+
+This form has no dead ends, but instead cycles through several different faces, with some variations in orientation. However, it may be tricky to find all of the faces!
+
+IMAGE PLACEHOLDER
+
+6-square tetraflexagons suggest several different possibilities:
+* iteration, loops, and cycles
+* forking paths
+* things that tumble and change orientation, like a kaleidoscope
+* things that meet at edges
+* pieces that recombine
+* things that remain hidden or difficult to find
+
+[Download 6-Square Tetraflexagon Instructions](https://neu-dsg.github.io/expressivepaper-collections/assets/img/instructions_6squaretetraflexagon.pdf)
+
+#### 7-Faced Tetraflexagon
+
+This form has seven faces, each consisting of four squares. If you use the template, each face will have four of the same number on it (four 7s, four 6s, etc.). As you manipulate the flexagon, you’ll see that the orientation of those four squares can change, relative to each other, and also the path by which you access the different faces can vary.
+
+7-faced tetraflexagons suggest different possibilities:
+* mirror images that change their relationship 
+* sequences that get disrupted
+* whole images or texts that are sectioned into pieces
+* individual images or texts that come together in quasi-kaleidoscopic ways
+
+[Download 7-Faced Tetraflexagon Instructions](https://github.com/NEU-DSG/expressivepaper-collections/blob/main/assets/img/7faced_tetraflexagon_Instructions.pdf)
