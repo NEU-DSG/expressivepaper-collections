@@ -23,8 +23,11 @@ Set beside other expressive paper forms, the one-page zine also suggests some in
 * a narrative in two parts
 * a set of questions and responses
 
-## Circular-bound zine
-In our experimentation with binding structures, we played with different ways to bind together multiple one-page zines. Some of these treated the zines like signatures in a traditional bound book, but another option was to omit the cover
+## Bound zine collections
+In our experimentation with binding structures, we played with different ways to bind together multiple one-page zines. Some of these treated the zines like signatures in a traditional bound book, which prompted a lot of thinking about how binding represents a commitment to a particular presentation order. In the early period of Western book printing (until the mid-18th century), books were often sold unbound so that the buyer could bind them as they chose — in theory, making it possible for the buyer to alter the intended ordering of the text. Individually published pamphlets were also sometimes purchased and bound together by a collector (for instance, the pamphlets of Lady Eleanor Davies and others were collected by Thomaston and bound in this way). 
+
+
+but another option was to omit the cover
 This form suggests:
 * no beginning and no end, continuous reading and flexible stopping and starting
 * hidden narratives; because the zine structure can't be unfolded (as in a classic 1-page zine), there are materials that might be hinted at but not fully revealed
